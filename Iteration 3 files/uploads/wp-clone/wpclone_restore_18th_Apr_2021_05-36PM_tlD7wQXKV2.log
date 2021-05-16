@@ -1,0 +1,20 @@
+Sunday, 18-Apr-2021 17:36:54 - restore started
+Sunday, 18-Apr-2021 17:36:54 - wp version     : 5.2.10
+Sunday, 18-Apr-2021 17:36:54 - php version    : 7.3.27
+Sunday, 18-Apr-2021 17:36:54 - mysql version  : 5.7.9
+Sunday, 18-Apr-2021 17:36:54 - memory limit   : 1024M
+Sunday, 18-Apr-2021 17:36:54 - execution time : 600
+Sunday, 18-Apr-2021 17:36:54 - mysql timeout  : 
+Sunday, 18-Apr-2021 17:36:54 - socket timeout : 600
+Sunday, 18-Apr-2021 17:36:54 - file download started
+Sunday, 18-Apr-2021 17:37:14 - download finished, filesize - 91.49 MB
+Sunday, 18-Apr-2021 17:37:14 - extracting database using ziparchive
+Sunday, 18-Apr-2021 17:37:15 - database import started
+Sunday, 18-Apr-2021 17:37:26 - updating mysql query with current site's url - new query : "INSERT INTO wp_options VALUES("1", "siteurl", "https://www.calyxx.ga", "yes")"
+Sunday, 18-Apr-2021 17:38:18 - mysql query failed. error : 1065 Query was empty - query : ""
+Sunday, 18-Apr-2021 17:38:18 - database import finished
+Sunday, 18-Apr-2021 17:38:18 - search and replace started
+Sunday, 18-Apr-2021 17:38:19 - there are 23 tables to scan
+Sunday, 18-Apr-2021 17:38:24 - search and replace finished
+Sunday, 18-Apr-2021 17:38:24 - extracting archive using ziparchive
+Sunday, 18-Apr-2021 17:44:28 - copying files..

@@ -1,0 +1,21 @@
+Sunday, 18-Apr-2021 17:27:32 - backup started
+Sunday, 18-Apr-2021 17:27:32 - wp version     : 5.7
+Sunday, 18-Apr-2021 17:27:32 - php version    : 7.3.27
+Sunday, 18-Apr-2021 17:27:33 - mysql version  : 5.7.9
+Sunday, 18-Apr-2021 17:27:33 - memory limit   : 1024M
+Sunday, 18-Apr-2021 17:27:33 - execution time : 600
+Sunday, 18-Apr-2021 17:27:33 - mysql timeout  : 
+Sunday, 18-Apr-2021 17:27:33 - socket timeout : 600
+Sunday, 18-Apr-2021 17:27:33 - files larger than 25 MB will be excluded from the backup
+Sunday, 18-Apr-2021 17:27:33 - generating file list
+Sunday, 18-Apr-2021 17:27:33 - file skipped, file is larger than 25 MB - "**SITE-ROOT**/wp-content/ai1wm-backups/www.calyxx.ml-20210418-161949-nun0tu.wpress"  218.57 MB
+Sunday, 18-Apr-2021 17:27:33 - file skipped, file is larger than 25 MB - "**SITE-ROOT**/wp-content/backup-migration/backups/BM_Backup_2021-04-18_17_11_15_1708.zip"  178.69 MB
+Sunday, 18-Apr-2021 17:27:51 - 2 files were excluded from the backup
+Sunday, 18-Apr-2021 17:27:52 - number of files to include in the archive is 7891, and their uncompressed size is 174.35 MB
+Sunday, 18-Apr-2021 17:27:52 - finished generating file list
+Sunday, 18-Apr-2021 17:27:52 - database backup started
+Sunday, 18-Apr-2021 17:27:52 - backing up tables with "wp_" prefix
+Sunday, 18-Apr-2021 17:27:52 - number of tables to backup - 23
+Sunday, 18-Apr-2021 17:27:54 - database backup finished
+Sunday, 18-Apr-2021 17:27:54 - archiving files using ziparchive
+Sunday, 18-Apr-2021 17:28:59 - backup finished
